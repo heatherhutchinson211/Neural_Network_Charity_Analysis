@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 ## Overview
-The purpose of this analysis was to use neural networks in order to create binary classifications.  These classifications were then used to predict the funsing success of Alphabet Soup for applicants.
+The purpose of this analysis was to use neural networks in order to create binary classifications.  These classifications were then used to predict the funding success of Alphabet Soup for applicants.  Data was compliled, trained, and then evaluated in a model. 
 
 ## Results
 ### Data Preprocessing
@@ -27,6 +27,12 @@ The purpose of this analysis was to use neural networks in order to create binar
     
     
 ### Compiling, Training, and Evaluating the Model
-- How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- Were you able to achieve the target model performance?
-- What steps did you take to try and increase model performance?
+#### - How many neurons, layers, and activation functions did you select for your neural network model, and why?
+    I tried a few different methods, but I ultimately ended up using 2 hidden layer with 80 and 30 neurons.  
+#### - Were you able to achieve the target model performance?
+    Unfortunately, I was not able to achieve the 75% model performance. 
+#### - What steps did you take to try and increase model performance?
+    I tried to achieve model performance by changing the number of hidden layers, neurons, and activation functions a few different times. 
+
+## Summary
+  I think that continuing to test out different methods would help me to achieve a better accuracy score. I might also try using a different method of testing in the future. 
