@@ -5,7 +5,7 @@ The purpose of this analysis was to use neural networks in order to create binar
 ## Results
 ### Data Preprocessing
 During preprocessing, I visualized the value counts of Classification as well as Application Type, as shown below:
-![Application Type]()
+![Application Type](https://github.com/heatherhutchinson211/Neural_Network_Charity_Analysis/blob/main/Screenshot%202023-05-01%20at%208.38.25%20PM.png)
 ![Classification]()
 
 
