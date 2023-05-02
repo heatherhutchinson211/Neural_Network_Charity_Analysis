@@ -4,11 +4,11 @@ The purpose of this analysis was to use neural networks in order to create binar
 
 ## Results
 ### Data Preprocessing
-- What variable(s) are considered the target(s) for your model?
+#### - What variable(s) are considered the target(s) for your model?
   
     The targets for this model are chosen by the IS_SUCCESSFUL column.
     
-- What variable(s) are considered to be the features for your model?
+#### - What variable(s) are considered to be the features for your model?
 
     The following columns were considered features for this model:
     
@@ -22,7 +22,7 @@ The purpose of this analysis was to use neural networks in order to create binar
       SPECIAL_CONSIDERATIONS       
       ASK_AMT
       
-- What variable(s) are neither targets nor features, and should be removed from the input data?
+#### - What variable(s) are neither targets nor features, and should be removed from the input data?
     The "EIN" and "NAME" columns were neither targets nor features, and thus were removed from the dataset. 
     
     
